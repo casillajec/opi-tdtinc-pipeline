@@ -71,7 +71,7 @@ Se pueden explorar los resultados con:
 
     docker exec tdtcont ls datalake/procesado/generador/fuente/20200801/
 
-Una vez el pipeline halla corrido se programara la corrida para el `2020-08-08`
+Una vez el pipeline haya corrido se programara la corrida para el `2020-08-08`
 (siguiente semana) y asi sucesivamente, si se quiere probar la automatizacion
 se puede incluir en la seccion cruda del datalake la informacion obtenida
 para el `2020-08-08`. Es importante que los datos se copien en secuencia
